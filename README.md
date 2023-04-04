@@ -1,37 +1,51 @@
-# Apresentação do Checkpoint 1 - Front-end Design 🐓
+## Apresentação do Checkpoint 1 - Front-end Design 🐓
 
 __Nomes + RM dos integrantes:__
 
-•Guilherme Akio - 98582
-
-•Matheus Motta - 550352
-
-•Guilherme Morais - 551981
-
-•Fabrício Saavedra - 97631
-
-•Vinicius Buzato - 99125
+- Guilherme Akio - 98582
+- Matheus Motta - 550352
+- Guilherme Morais - 551981
+- Fabrício Saavedra - 97631
+- Vinicius Buzato - 99125
 
 __Turma:__ 1ESPW
 
 __Ano:__ 2023
+___
 
-# Apresentação
+### Apresentação
 
-Bem-vindo ao site da nossa vinícola Galo! Aqui, oferecemos um passeio virtual por nosso vinhedo e adega que demonstra a beleza
-deslumbrante de nossos arredores e o complexo processo de vinificação.
-Temos muito orgulho de nossa herança e tradições, que foram transmitidas por gerações de produtores de vinho, como uma vinfcola familiar.
-Nosso vinhedo está situado no coração da região vinfcola, onde o microclima é ideal para cultivar uvas premium e criar grandes vinhos.
-Vocè pode encontrar uma descrição completa de cada um de nossos vinhos em nosso site. Além disso, temos uma loja online onde pode
+Bem-vindo ao site da vinícola Galo! 
+
+Aqui, oferecemos um passeio virtual por nosso vinhedo e adega que demonstra a beleza
+deslumbrante de nossos arredores e o complexo processo de vinificação. Temos muito orgulho de nossa herança e tradições, que foram transmitidas por gerações de produtores de vinho, como uma vinfcola familiar. Nosso vinhedo está situado no coração da região vinfcola, onde o microclima é ideal para cultivar uvas premium e criar grandes vinhos.
+
+Você pode encontrar uma descrição completa de cada um de nossos vinhos em nosso site. Além disso, temos uma loja online onde pode
 comprar os nossos vinhos
+
 Nossos métodos agrícolas, métodos de vinificação e outras ações demonstram nossa dedicação à sustentabilidade. Priorizamos soluções
 ecológicas para garantir que nossa terra permaneça saudável e produtiva para as próximas gerações.
+
 Convidamo-lo a explorar o nosso site e descobrir tudo o que a nossa adega tem para oferecer. Da nossa famlia para a sua, esperamos partilhar
-consigo a nossa paixão pelo vinho e a beleza da nossa vinha. Saúde!
+consigo a nossa paixão pelo vinho e a beleza da nossa vinha. 
 
-# Desenvolvimento
+Saúde! 🍷
+___
 
-__Página inicial:__ Conforme solicitado, foi criado um cabeçalho com o logotipo centralizado, uma foto da vinícola e um menu à esquerda, que redireciona para as páginas "Quem Somos", "Produtos", "Loja Virtual", "Endereço" e "Contato". Cada página contém um botão "Home", que ao ser clicado, retorna para a página inicial.
+### Desenvolvimento
+
+__Página inicial:__ Possui: 
+
+- Cabeçalho com o logotipo centralizado; 
+- Uma foto da vinícola
+- Um menu à esquerda, que redireciona para as seguintes páginas:
+  - "Quem Somos"
+  - "Produtos"
+  - "Loja Virtual"
+  - "Endereço"
+  - "Contato"
+ 
+Cada página contém também um botão "Home" que, ao ser clicado, retorna para a página inicial.
 
 __Quem somos:__ Um resumo da história da vinícola Galo e do significado por trás de seu nome, que busca transmitir a essência e valores da empresa.
 
